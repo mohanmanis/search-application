@@ -1,0 +1,36 @@
+{
+  "name": "search-application",
+  "version": "1.0.0",
+  "description": "assignment",
+  "scripts": {
+    "start": "webpack-dev-server --mode=development"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "mobx",
+    "starter-kit"
+  ],
+  "author": "Manish Mohan(mohanmanis@gmail.com)",
+  "devDependencies": {
+    "@types/react": "^16.4.2",
+    "@types/react-dom": "^16.4.2",
+    "@types/webpack-env": "^1.13.6",
+    "css-loader": "^3.6.0",
+    "style-loader": "^1.2.1",
+    "ts-loader": "^5.2.0",
+    "typescript": "^3.8.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "dependencies": {
+    "@types/node": "^9.4.6",
+    "mobx": "^4.5.2",
+    "mobx-react": "^5.2.8",
+    "mobx-react-devtools": "^4.2.15",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
